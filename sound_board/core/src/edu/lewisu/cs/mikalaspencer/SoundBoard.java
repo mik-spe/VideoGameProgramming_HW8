@@ -201,8 +201,7 @@ public class SoundBoard extends ApplicationAdapter
 {
 	SpriteBatch batch, batch2;
 	TextureRegion background, img;
-	Texture tsumiki, mioda, nanami, komaeda, iruma, robot, evilBear, goodBear, musicNote;
-	Texture tsumiki2, mioda2, nanami2, komaeda2, iruma2, robot2, evilBear2, goodBear2, junko, volDown, volUp;
+	Texture tsumiki, mioda, nanami, komaeda, iruma, robot, evilBear, goodBear, musicNote, junko, volDown, volUp;
 	OrthographicCamera cam;
 	int WIDTH, HEIGHT;
 	float vol;
